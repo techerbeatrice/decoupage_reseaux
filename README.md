@@ -1,4 +1,8 @@
 # Découpage réseaux
+Le Pôle informatique (6 bureaux, environ 50 équipements au total)
+Le Pôle développement (6 bureaux, environ 12 équipements au total)
+Le Pôle Administratif (4 bureaux, environ 20 équipements au total)
+Le Pôle Technicien (4 bureaux, environ 15 équipements au total)
 
 | Réseau : 172.16.1.0/24  | Adresse réseau | Adresse de broadcast |Adresse de début de plage  | Adresse de fin de plage |
 | :---    |  :----:  |    ---: | :---    |  :----:  |
