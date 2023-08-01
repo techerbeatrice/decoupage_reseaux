@@ -11,4 +11,4 @@ Le découpage symétrique concerne le Pôle Administratif et le Pôle Technicien
 |**Le Pôle Informatique (6 bureaux, environ 50 équipements au total)**    | 172.16.1.0/26   | 172.16.1.63/26 | 172.16.1.1    | 172.16.1.62   |
 | **Le Pôle Administratif (4 bureaux, environ 20 équipements au total)**    | 172.16.1.64/27 | 172.16.1.95/27 | 172.16.1.65    | 172.16.1.94 |
 | **Le Pôle Technicien (4 bureaux, environ 15 équipements au total)**    | 172.16.1.96/27 | 172.16.1.127/27 | 172.16.1.97   | 172.16.1.126 |
-| **Le Pôle Développement (6 bureaux, environ 12 équipements au total)**    | 172.16.1.128/28 | 172.16.1.145/28 | 172.16.1.129    | 172.16.1.144 |
+| **Le Pôle Développement (6 bureaux, environ 12 équipements au total)**    | 172.16.1.128/28 | 172.16.1.143/28 | 172.16.1.129    | 172.16.1.142 |
